@@ -240,3 +240,8 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+.services a {
+  color: #fff;
+  text-decoration: underline;
+}
